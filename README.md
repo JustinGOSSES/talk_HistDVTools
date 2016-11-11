@@ -7,3 +7,11 @@ https://www.meetup.com/Houston-Data-Visualization-Meetup/events/233893631/
 ### Slides on Slides.com
 https://slides.com/justingosses/deck-1-2-3/live#/6
 
+### Title:
+THE CHANGING LANDSCAPE OF DATA VISUALIZATION TOOLS IN LARGE ORGANIZATIONS
+
+### Topic:
+1. Changing landscape of data visualization and analytical tools: Quick Overview of 1976-2016
+2. Data visualization in large organizations:
+  - value to org
+  - what tools?
