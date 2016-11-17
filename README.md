@@ -1,7 +1,9 @@
 # talk_HistDVTools
 Slides for a data visualization meet-up talk on the changing landscape of data visualization tools - Nov. 2016.
+
 Slides were created with reveal.js and are hosted publically on slides.com. 
 
+#### Files
 - Key file is slides-dataviztoolshistorylargeorg_20161114.html
 - "Images" folder has images used in the slides
 - "older" folder contains earlier drafts.
