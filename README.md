@@ -17,8 +17,8 @@ THE CHANGING LANDSCAPE OF DATA VISUALIZATION TOOLS IN LARGE ORGANIZATIONS
 ### Two Interconnected Topics:
 1. Changing landscape of data visualization and analytical tools: Quick Overview of 1976-2016
 2. Data visualization in large organizations:
-    ..* What is their value to large organizations?
-    ..* What matters in deciding what tools to adopt? What large organization characteristics influence their adoption?
+    * What is their value to large organizations?
+    * What matters in deciding what tools to adopt? What large organization characteristics influence their adoption?
 
 
 ### Slides on Slides.com
