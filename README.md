@@ -28,9 +28,9 @@ http://slides.com/justingosses/dataviztoolshistorylargeorg#/
 
 ### Two other webpages used in the presentation
 
-#### A Timeline of Key Data Visualization Tools 1976-2016:
-<a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1O32FBDYO16WjoFSCsWS1d0oEuRo0C00q633nhhGZlNE&font=Default&lang=en&initial_zoom=2&height=650" taarget="blank">timeline</a>
-  This is a timeline I created with the help of Knight School of Journalism's <a href="http://timeline.knightlab.com/index.html" target="blank">"timeline.js</a> tool. It presents a list of key data visualization tools and puts their first releases in context of the new methods or technologies they were able to use or the patterns of tool development they followed. 
+#### A <a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1O32FBDYO16WjoFSCsWS1d0oEuRo0C00q633nhhGZlNE&font=Default&lang=en&initial_zoom=2&height=650" taarget="blank">Timeline</a> of Key Data Visualization Tools 1976-2016:
+
+  A timeline I created using the Knight School of Journalism's <a href="http://timeline.knightlab.com/index.html" target="blank">"timeline.js</a> tool. It presents a list of key data visualization tools and puts their first releases in context of new methods or technologies they were able to use or patterns of tool development they followed. 
         ![data viz tool timelime](/images/timeline_overview.png)
 
 #### Evolution of the Web Data Visualization:
